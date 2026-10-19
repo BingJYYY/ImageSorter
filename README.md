@@ -9,6 +9,7 @@
 选目录 · 绑分类 · 按一下键 · 自动归档
 
 [![Version](https://img.shields.io/badge/Version-1.0.2-D0A372?style=for-the-badge)](https://github.com/BingJYYY/ImageSorter)
+[![Download](https://img.shields.io/badge/Download-v1.0.2-D0A372?style=for-the-badge&logo=github)](https://github.com/BingJYYY/ImageSorter/releases/latest)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/PySide6-6.11-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
@@ -72,8 +73,8 @@ RAW 解码库默认按需加载。第一次遇到 RAW 图片时会显示加载�
 
 ### 使用便携版
 
-1. 打开 GitHub 的 [Releases](https://github.com/BingJYYY/ImageSorter/releases) 页面。
-2. 如果发布页提供了便携包，下载对应的 `ImageSort-v1.0.2-win64.zip`；如果暂未提供，可按下方“从源码构建”生成。
+1. 打开 GitHub 的 [最新版本](https://github.com/BingJYYY/ImageSorter/releases/latest) 页面。
+2. 下载 `ImageSort-v1.0.2-win64.zip`。
 3. 解压到任意英文或中文路径。
 4. 双击 `ImageSort.exe` 启动。
 

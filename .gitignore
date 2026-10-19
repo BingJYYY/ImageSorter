@@ -20,6 +20,8 @@ thumbcache/
 trash/
 logs/
 *.log
+release/
+_*.json
 
 # Editors / OS
 .idea/
