@@ -73,7 +73,7 @@ RAW 解码库默认按需加载。第一次遇到 RAW 图片时会显示加载�
 ### 使用便携版
 
 1. 打开 GitHub 的 [Releases](https://github.com/BingJYYY/ImageSorter/releases) 页面。
-2. 下载最新的 `ImageSort-v1.0.2-win64.zip`。
+2. 如果发布页提供了便携包，下载对应的 `ImageSort-v1.0.2-win64.zip`；如果暂未提供，可按下方“从源码构建”生成。
 3. 解压到任意英文或中文路径。
 4. 双击 `ImageSort.exe` 启动。
 
